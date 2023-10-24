@@ -16,7 +16,7 @@ It was announced & released on September 2023.
 | Storage                 | UFS2.2 (128 & 256 GB variant), UFS3.1 (512 GB variant)
 | SIM                     | Dual SIM (Nano-SIM, dual stand-by)
 | Battery                 | Li-Po 5100 mAh, non-removable
-| Dimensions              | 161.15 x 74.24 x 7.98 mm (6.27 x 2.90 x 0.29 in)
+| Dimensions              | 161.15 x 74.24 x 7.98 mm (6.34 x 2.92 x 0.31 in)
 | Display                 | 1220 x 2712 pixels, 6.63 inches, OLED, 120Hz, 1800 nits (peak), 112.8 cm2 (~94.3% screen-to-body ratio)
 | Rear Camera 1           | 200 MP, f/1.6, 26mm (wide), 1/1.4", 2.24µm, PDAF
 | Rear Camera 2           | 8 MP, f/2.2, 120˚ (ultrawide), 1/4.0", 1.12µm
