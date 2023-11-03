@@ -31,4 +31,6 @@ It was announced & released on September 2023.
 
 ## What's working
 
- Nothing. Compile output drops your phone into QCOM 900E mode
+~~Nothing. Compile output drops your phone into QCOM 900E mode~~
+
+`ADB devices` only .
