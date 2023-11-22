@@ -59,6 +59,6 @@ void vendor_load_properties() {
     } else if (hwc == "GL")  {
         model_property_override("garnet", "Redmi Note 13 Pro 5G");
     } else {
-        model_property_override("garnetin", "Redmi Note 13 Pro 5G");
+        model_property_override("garnetin", "Poco X6 Pro 5G");
     }
 }
